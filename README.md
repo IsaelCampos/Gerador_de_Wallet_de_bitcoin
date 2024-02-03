@@ -30,7 +30,7 @@ São necessário a instalação das dependências `bip39`, `bip32@2.0.6` e `bitc
 
 Para visualizar a carteira e as transações realizadas vamos procurar no `Blockchain.com` sobre as mesmas.
 
-Vamos utilizar uma moeda sem valor(`freebitcoin`) no site `Bitcoin Testnet Faucet`, para vermos na prática qual o comportamento de nossa careira e os seus registos no bloco.
+Vamos utilizar uma moeda sem valor(`freebitcoin`) no site `Bitcoin Testnet Faucet`, para vermos na prática qual o comportamento de nossa carteira e os seus registos no bloco.
 
 Essa parte do código em questão sera responsavel pela geração de caracteres aleatorios de nossa Wallet.
 
